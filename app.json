@@ -2,6 +2,11 @@
   "expo": {
     "name": "rewardsapp",
     "slug": "rewardsapp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "33eb580c-9ef6-4c60-a4c4-e56b84d15333"
+      }
+    }
   }
 }
